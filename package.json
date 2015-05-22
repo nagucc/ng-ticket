@@ -1,0 +1,26 @@
+{
+  "name": "ng-ticket",
+  "version": "1.0.0",
+  "description": "票据应用模块。票据可用于用户登录、获取临时进入权限等。",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nagucc/ng-ticket.git"
+  },
+  "author": "na57 <na57@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nagucc/ng-ticket/issues"
+  },
+  "homepage": "https://github.com/nagucc/ng-ticket",
+  "dependencies": {
+    "mongodb": "^2.0.33",
+    "node-uuid": "^1.4.3"
+  },
+  "devDependencies": {
+    "should": "^6.0.3"
+  }
+}
